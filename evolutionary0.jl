@@ -1,6 +1,6 @@
 # DO NOT MODIFY THIS CODE
 
-# todos conectados com todos
+
 function make_g1()
   g = fill(0, 63, 63)
   for i in 1:21
